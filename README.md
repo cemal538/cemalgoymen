@@ -7,7 +7,7 @@ Software engineer based in Cyprus. Backend at Nucleus Software
 - [ArticleAI](https://articleai-mauve.vercel.app) — AI content 
   generation SaaS. Next.js, Stripe, Claude API.
   
-- [ApplyLabs]((https://www.applylabs.co/)) — AI job application tool. Next.js, 
+- [ApplyLabs](https://www.applylabs.co/) — AI job application tool. Next.js, 
   PostgreSQL, Stripe.
 
 ## Stack
